@@ -6,7 +6,6 @@ var L          = require('./leaflet.js')
   , level3Data = require('./data/level3-ways-weightings.json')
   , level4Data = require('./data/level4-ways-weightings.json')
 
-
 var map = L.map('map')
   .fitBounds([
     [-43.577988,172.515934],
