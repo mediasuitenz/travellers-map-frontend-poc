@@ -21,9 +21,11 @@ L.tileLayer('http://{s}.tiles.mapbox.com/v3/digitalsadhu.jbf3mhe1/{z}/{x}/{y}.pn
 }).addTo(map)
 
 function geojsonStyles(feature) {
-  var color = '#00FF00'
-  if (feature.properties.weighting < 8 && feature.properties.weighting > 3)
-    color = '#FFBF00'
+  var color = '#00FF00' //default green
+  if (feature.properties.weighting < 8 && feature.properties.weighting > 4)
+    color = '#CD5C5C' //red
+  if (feature.properties.weighting < 5 && feature.properties.weighting > 0)
+    color = '#FFA500' //orange
   if (feature.properties.weighting > 7) color = '#000000'
   return {
     color: color,
