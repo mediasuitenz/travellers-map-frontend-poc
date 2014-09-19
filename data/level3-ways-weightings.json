@@ -278,31 +278,29 @@
 ,
 {"type":"Feature","id":"way/8153513/0","properties":{"highway":"tertiary","name":"Montreal Street","id":"way/8153513/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6306186,-43.5400786],[172.63062019999998,-43.53993370000001]]}}
 ,
-{"type":"Feature","id":"way/11289385/0","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/11289385/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67900279999995,-43.4755899],[172.67921529999995,-43.4754016]]}}
+{"type":"Feature","id":"way/11289385/0","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/11289385/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67900279999995,-43.4755899],[172.67921529999995,-43.4754016]]}}
 ,
-{"type":"Feature","id":"way/11289385/1","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/11289385/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67921529999995,-43.4754016],[172.67953469999992,-43.4751478]]}}
+{"type":"Feature","id":"way/11289385/1","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/11289385/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67921529999995,-43.4754016],[172.67953469999992,-43.4751478]]}}
 ,
-{"type":"Feature","id":"way/11289909/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Inwoods Road","id":"way/11289909/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69848900000005,-43.4820786],[172.6992685,-43.480921499999994]]}}
+{"type":"Feature","id":"way/11289909/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Inwoods Road","id":"way/11289909/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69848900000005,-43.4820786],[172.6992685,-43.480921499999994]]}}
 ,
-{"type":"Feature","id":"way/11289909/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Inwoods Road","id":"way/11289909/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6992685,-43.480921499999994],[172.7001462,-43.4796208]]}}
+{"type":"Feature","id":"way/11289909/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Inwoods Road","id":"way/11289909/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6992685,-43.480921499999994],[172.7001462,-43.4796208]]}}
 ,
-{"type":"Feature","id":"way/11290249/0","properties":{"highway":"tertiary","name":"Broadhaven Avenue","id":"way/11290249/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6967934,-43.4715762],[172.697981,-43.47200880000001]]}}
+{"type":"Feature","id":"way/11290249/0","properties":{"highway":"tertiary","name":"Broadhaven Avenue","id":"way/11290249/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6967934,-43.4715762],[172.697981,-43.47200880000001]]}}
 ,
-{"type":"Feature","id":"way/11290249/1","properties":{"highway":"tertiary","name":"Broadhaven Avenue","id":"way/11290249/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.697981,-43.47200880000001],[172.6987628,-43.4722807]]}}
+{"type":"Feature","id":"way/11290249/1","properties":{"highway":"tertiary","name":"Broadhaven Avenue","id":"way/11290249/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.697981,-43.47200880000001],[172.6987628,-43.4722807]]}}
 ,
-{"type":"Feature","id":"way/11290249/2","properties":{"highway":"tertiary","name":"Broadhaven Avenue","id":"way/11290249/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6987628,-43.4722807],[172.6989947,-43.472433]]}}
+{"type":"Feature","id":"way/11290249/2","properties":{"highway":"tertiary","name":"Broadhaven Avenue","id":"way/11290249/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6987628,-43.4722807],[172.6989947,-43.472433]]}}
 ,
-{"type":"Feature","id":"way/11290249/3","properties":{"highway":"tertiary","name":"Broadhaven Avenue","id":"way/11290249/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6989947,-43.472433],[172.6991292,-43.4726633]]}}
+{"type":"Feature","id":"way/11291018/11","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/11","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6987446,-43.48534280000001],[172.69986939999998,-43.4858392]]}}
 ,
-{"type":"Feature","id":"way/11291018/11","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/11","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6987446,-43.48534280000001],[172.69986939999998,-43.4858392]]}}
+{"type":"Feature","id":"way/11291018/12","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/12","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69986939999998,-43.4858392],[172.70039219999998,-43.4861074]]}}
 ,
-{"type":"Feature","id":"way/11291018/12","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/12","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69986939999998,-43.4858392],[172.70039219999998,-43.4861074]]}}
+{"type":"Feature","id":"way/11291018/13","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/13","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.70039219999998,-43.4861074],[172.700444,-43.4861292]]}}
 ,
-{"type":"Feature","id":"way/11291018/13","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/13","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.70039219999998,-43.4861074],[172.700444,-43.4861292]]}}
+{"type":"Feature","id":"way/11291018/14","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/14","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.700444,-43.4861292],[172.7014297,-43.4865456]]}}
 ,
-{"type":"Feature","id":"way/11291018/14","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/14","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.700444,-43.4861292],[172.7014297,-43.4865456]]}}
-,
-{"type":"Feature","id":"way/11291018/15","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/15","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7014297,-43.4865456],[172.7015899,-43.4865579]]}}
+{"type":"Feature","id":"way/11291018/15","properties":{"highway":"unclassified","maxspeed":"50","name":"Beach Road","id":"way/11291018/15","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7014297,-43.4865456],[172.7015899,-43.4865579]]}}
 ,
 {"type":"Feature","id":"way/11292460/0","properties":{"highway":"tertiary","name":"Aston Drive","source":"survey","id":"way/11292460/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7209615,-43.48630280000001],[172.72057669999998,-43.4850636]]}}
 ,
@@ -1040,8 +1038,6 @@
 ,
 {"type":"Feature","id":"way/23147780/8","properties":{"highway":"tertiary","name":"Rookwood Avenue","id":"way/23147780/8","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.71587769999994,-43.497014],[172.71628469999993,-43.4974426]]}}
 ,
-{"type":"Feature","id":"way/23150394/0","properties":{"bridge":"yes","highway":"tertiary","maxspeed":"50","name":"Stanmore Road","id":"way/23150394/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6570659,-43.52509350000001],[172.657067,-43.5254646]]}}
-,
 {"type":"Feature","id":"way/23235627/0","properties":{"highway":"tertiary","name":"Radley Street","id":"way/23235627/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67904249999998,-43.5473664],[172.67915389999993,-43.5472791]]}}
 ,
 {"type":"Feature","id":"way/23235628/0","properties":{"bridge":"yes","highway":"tertiary","name":"Radley Street","id":"way/23235628/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67865579999992,-43.5476792],[172.67904249999998,-43.5473664]]}}
@@ -1114,25 +1110,25 @@
 ,
 {"type":"Feature","id":"way/23245626/17","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/17","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67846419999998,-43.5551216],[172.680024,-43.5560343]]}}
 ,
-{"type":"Feature","id":"way/23245626/18","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/18","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.680024,-43.5560343],[172.6804892,-43.556297699999995]]}}
+{"type":"Feature","id":"way/23245626/18","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/18","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.680024,-43.5560343],[172.6804892,-43.556297699999995]]}}
 ,
-{"type":"Feature","id":"way/23245626/19","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/19","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6804892,-43.556297699999995],[172.68065529999996,-43.5564701]]}}
+{"type":"Feature","id":"way/23245626/19","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/19","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6804892,-43.556297699999995],[172.68065529999996,-43.5564701]]}}
 ,
-{"type":"Feature","id":"way/23245626/20","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/20","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.68065529999996,-43.5564701],[172.6806705,-43.5565097]]}}
+{"type":"Feature","id":"way/23245626/20","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/20","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.68065529999996,-43.5564701],[172.6806705,-43.5565097]]}}
 ,
-{"type":"Feature","id":"way/23245626/21","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/21","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6806705,-43.5565097],[172.68070419999998,-43.5566609]]}}
+{"type":"Feature","id":"way/23245626/21","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/21","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6806705,-43.5565097],[172.68070419999998,-43.5566609]]}}
 ,
-{"type":"Feature","id":"way/23245626/22","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/22","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.68070419999998,-43.5566609],[172.6807367,-43.55681739999999]]}}
+{"type":"Feature","id":"way/23245626/22","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/22","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.68070419999998,-43.5566609],[172.6807367,-43.55681739999999]]}}
 ,
-{"type":"Feature","id":"way/23245626/23","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/23","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6807367,-43.55681739999999],[172.6807239,-43.5569739]]}}
+{"type":"Feature","id":"way/23245626/23","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/23","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6807367,-43.55681739999999],[172.6807239,-43.5569739]]}}
 ,
-{"type":"Feature","id":"way/23245626/24","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/24","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6807239,-43.5569739],[172.6806238,-43.5573286]]}}
+{"type":"Feature","id":"way/23245626/24","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/24","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6807239,-43.5569739],[172.6806238,-43.5573286]]}}
 ,
-{"type":"Feature","id":"way/23245626/25","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/25","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6806238,-43.5573286],[172.68055259999994,-43.5576739]]}}
+{"type":"Feature","id":"way/23245626/25","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/25","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6806238,-43.5573286],[172.68055259999994,-43.5576739]]}}
 ,
-{"type":"Feature","id":"way/23245626/26","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/26","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.68055259999994,-43.5576739],[172.6805048,-43.55801370000001]]}}
+{"type":"Feature","id":"way/23245626/26","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/26","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.68055259999994,-43.5576739],[172.6805048,-43.55801370000001]]}}
 ,
-{"type":"Feature","id":"way/23245626/27","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/27","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6805048,-43.55801370000001],[172.6804802,-43.558489599999994]]}}
+{"type":"Feature","id":"way/23245626/27","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/27","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6805048,-43.55801370000001],[172.6804802,-43.558489599999994]]}}
 ,
 {"type":"Feature","id":"way/23245626/28","properties":{"highway":"unclassified","name":"Cumnor Terrace","id":"way/23245626/28","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6804802,-43.558489599999994],[172.6804633,-43.5593413]]}}
 ,
@@ -1174,7 +1170,7 @@
 ,
 {"type":"Feature","id":"way/23245744/16","properties":{"fixme":"no road","highway":"unclassified","name":"Connal Street","id":"way/23245744/16","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6810587,-43.55625230000001],[172.6811941,-43.556587099999994]]}}
 ,
-{"type":"Feature","id":"way/23245744/17","properties":{"fixme":"no road","highway":"unclassified","name":"Connal Street","id":"way/23245744/17","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6811941,-43.556587099999994],[172.68120380000005,-43.55671260000001]]}}
+{"type":"Feature","id":"way/23245744/17","properties":{"fixme":"no road","highway":"unclassified","name":"Connal Street","id":"way/23245744/17","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6811941,-43.556587099999994],[172.68120380000005,-43.55671260000001]]}}
 ,
 {"type":"Feature","id":"way/23245748/0","properties":{"highway":"unclassified","name":"Barton Street","id":"way/23245748/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67831080000005,-43.5543901],[172.6784239,-43.5543713]]}}
 ,
@@ -1634,7 +1630,7 @@
 ,
 {"type":"Feature","id":"way/24721413/2","properties":{"access":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Colombo Street","roadworks":"Level1","id":"way/24721413/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63671209999998,-43.534166],[172.6367182,-43.5342341]]}}
 ,
-{"type":"Feature","id":"way/25890303/0","properties":{"created_by":"Potlatch 0.10f","highway":"tertiary","name":"Ensors Road","id":"way/25890303/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65736080000005,-43.55288839999999],[172.65742070000005,-43.552817499999996]]}}
+{"type":"Feature","id":"way/25890303/0","properties":{"created_by":"Potlatch 0.10f","highway":"tertiary","name":"Ensors Road","id":"way/25890303/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.65736080000005,-43.55288839999999],[172.65742070000005,-43.552817499999996]]}}
 ,
 {"type":"Feature","id":"way/25928456/0","properties":{"highway":"unclassified","maxspeed":"100","name":"Quaifes Road","id":"way/25928456/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.5392177,-43.5778158],[172.5472792,-43.5827791]]}}
 ,
@@ -1714,17 +1710,17 @@
 ,
 {"type":"Feature","id":"way/29469343/0","properties":{"bicycle":"yes","bridge":"yes","highway":"unclassified","layer":"1","id":"way/29469343/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7221605,-43.60413910000001],[172.7221141,-43.60451180000001]]}}
 ,
-{"type":"Feature","id":"way/30910185/0","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7723675,-43.57113920000001],[172.77216769999998,-43.571384099999996]]}}
+{"type":"Feature","id":"way/30910185/0","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7723675,-43.57113920000001],[172.77216769999998,-43.571384099999996]]}}
 ,
-{"type":"Feature","id":"way/30910185/1","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.77216769999998,-43.571384099999996],[172.7719413,-43.5717663]]}}
+{"type":"Feature","id":"way/30910185/1","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.77216769999998,-43.571384099999996],[172.7719413,-43.5717663]]}}
 ,
-{"type":"Feature","id":"way/30910185/2","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7719413,-43.5717663],[172.77156689999998,-43.5722001]]}}
+{"type":"Feature","id":"way/30910185/2","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7719413,-43.5717663],[172.77156689999998,-43.5722001]]}}
 ,
-{"type":"Feature","id":"way/30910185/3","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.77156689999998,-43.5722001],[172.77114830000005,-43.57289580000001]]}}
+{"type":"Feature","id":"way/30910185/3","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.77156689999998,-43.5722001],[172.77114830000005,-43.57289580000001]]}}
 ,
-{"type":"Feature","id":"way/30910185/4","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.77114830000005,-43.57289580000001],[172.770941,-43.5732463]]}}
+{"type":"Feature","id":"way/30910185/4","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/4","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.77114830000005,-43.57289580000001],[172.770941,-43.5732463]]}}
 ,
-{"type":"Feature","id":"way/30910185/5","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.770941,-43.5732463],[172.77072049999998,-43.57357370000001]]}}
+{"type":"Feature","id":"way/30910185/5","properties":{"highway":"tertiary","lanes":"2","name":"Scarborough Road","id":"way/30910185/5","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.770941,-43.5732463],[172.77072049999998,-43.57357370000001]]}}
 ,
 {"type":"Feature","id":"way/32050444/0","properties":{"access":"yes","foot":"yes","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","note":"tramway reopens 2014","railway":"disused","id":"way/32050444/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63386939999998,-43.5309448],[172.63385269999992,-43.531955]]}}
 ,
@@ -1912,21 +1908,21 @@
 ,
 {"type":"Feature","id":"way/47662780/1","properties":{"highway":"unclassified","maxspeed":"50","name":"Logistics Drive","id":"way/47662780/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.55858519999998,-43.4734509],[172.5588556,-43.4734348]]}}
 ,
-{"type":"Feature","id":"way/50009283/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67900279999995,-43.4755899],[172.67930519999993,-43.4758037]]}}
+{"type":"Feature","id":"way/50009283/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67900279999995,-43.4755899],[172.67930519999993,-43.4758037]]}}
 ,
-{"type":"Feature","id":"way/50009283/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67930519999993,-43.4758037],[172.67945969999994,-43.4760466]]}}
+{"type":"Feature","id":"way/50009283/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67930519999993,-43.4758037],[172.67945969999994,-43.4760466]]}}
 ,
-{"type":"Feature","id":"way/50009283/2","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67945969999994,-43.4760466],[172.67953189999994,-43.4762998]]}}
+{"type":"Feature","id":"way/50009283/2","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67945969999994,-43.4760466],[172.67953189999994,-43.4762998]]}}
 ,
-{"type":"Feature","id":"way/50009283/3","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67953189999994,-43.4762998],[172.67957339999992,-43.47659200000001]]}}
+{"type":"Feature","id":"way/50009283/3","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67953189999994,-43.4762998],[172.67957339999992,-43.47659200000001]]}}
 ,
-{"type":"Feature","id":"way/50009283/4","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67957339999992,-43.47659200000001],[172.67958459999988,-43.4769518]]}}
+{"type":"Feature","id":"way/50009283/4","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/4","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.67957339999992,-43.47659200000001],[172.67958459999988,-43.4769518]]}}
 ,
-{"type":"Feature","id":"way/50009283/5","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67958459999988,-43.4769518],[172.67963109999994,-43.477267199999986]]}}
+{"type":"Feature","id":"way/50009283/5","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/5","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.67958459999988,-43.4769518],[172.67963109999994,-43.477267199999986]]}}
 ,
-{"type":"Feature","id":"way/50009283/6","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/6","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67963109999994,-43.477267199999986],[172.6797552999999,-43.4775883]]}}
+{"type":"Feature","id":"way/50009283/6","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/6","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.67963109999994,-43.477267199999986],[172.6797552999999,-43.4775883]]}}
 ,
-{"type":"Feature","id":"way/50009283/7","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/7","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6797552999999,-43.4775883],[172.68049330000005,-43.479022]]}}
+{"type":"Feature","id":"way/50009283/7","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/7","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6797552999999,-43.4775883],[172.68049330000005,-43.479022]]}}
 ,
 {"type":"Feature","id":"way/50009283/9","properties":{"highway":"tertiary","maxspeed":"50","name":"Burwood Road","id":"way/50009283/9","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6805422,-43.479116300000015],[172.6811132,-43.480217599999996]]}}
 ,
@@ -1970,13 +1966,13 @@
 ,
 {"type":"Feature","id":"way/76966219/0","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63354669999998,-43.5340938],[172.6336174,-43.5340311]]}}
 ,
-{"type":"Feature","id":"way/76966219/1","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6336174,-43.5340311],[172.63364869999998,-43.5339554]]}}
+{"type":"Feature","id":"way/76966219/1","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6336174,-43.5340311],[172.63364869999998,-43.5339554]]}}
 ,
-{"type":"Feature","id":"way/76966219/2","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63364869999998,-43.5339554],[172.63364669999999,-43.5338714]]}}
+{"type":"Feature","id":"way/76966219/2","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63364869999998,-43.5339554],[172.63364669999999,-43.5338714]]}}
 ,
-{"type":"Feature","id":"way/76966219/3","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63364669999999,-43.5338714],[172.63365999999994,-43.533305200000015]]}}
+{"type":"Feature","id":"way/76966219/3","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63364669999999,-43.5338714],[172.63365999999994,-43.533305200000015]]}}
 ,
-{"type":"Feature","id":"way/76966219/4","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63365999999994,-43.533305200000015],[172.63367139999994,-43.5331648]]}}
+{"type":"Feature","id":"way/76966219/4","properties":{"fixme":"one way","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","id":"way/76966219/4","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63365999999994,-43.533305200000015],[172.63367139999994,-43.5331648]]}}
 ,
 {"type":"Feature","id":"way/92770412/0","properties":{"highway":"tertiary","maxspeed":"30","name":"Cathedral Square","railway":"tram","id":"way/92770412/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6369788,-43.5305012],[172.6370332,-43.5305215]]}}
 ,
@@ -2082,21 +2078,21 @@
 ,
 {"type":"Feature","id":"way/102602237/8","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/8","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6888643,-43.4802957],[172.6893222,-43.479961]]}}
 ,
-{"type":"Feature","id":"way/102602237/9","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/9","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6893222,-43.479961],[172.68957439999994,-43.4798533]]}}
+{"type":"Feature","id":"way/102602237/9","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/9","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6893222,-43.479961],[172.68957439999994,-43.4798533]]}}
 ,
-{"type":"Feature","id":"way/102602237/10","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/10","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.68957439999994,-43.4798533],[172.68983459999998,-43.4797882]]}}
+{"type":"Feature","id":"way/102602237/10","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/10","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.68957439999994,-43.4798533],[172.68983459999998,-43.4797882]]}}
 ,
-{"type":"Feature","id":"way/102602237/11","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/11","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.68983459999998,-43.4797882],[172.6904952,-43.4797017]]}}
+{"type":"Feature","id":"way/102602237/11","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/11","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.68983459999998,-43.4797882],[172.6904952,-43.4797017]]}}
 ,
-{"type":"Feature","id":"way/102602237/12","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/12","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6904952,-43.4797017],[172.69166919999998,-43.47959080000001]]}}
+{"type":"Feature","id":"way/102602237/12","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/12","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6904952,-43.4797017],[172.69166919999998,-43.47959080000001]]}}
 ,
-{"type":"Feature","id":"way/102602237/13","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/13","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69166919999998,-43.47959080000001],[172.6920412,-43.4796062]]}}
+{"type":"Feature","id":"way/102602237/13","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/13","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.69166919999998,-43.47959080000001],[172.6920412,-43.4796062]]}}
 ,
-{"type":"Feature","id":"way/102602237/14","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/14","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6920412,-43.4796062],[172.6947282,-43.4798952]]}}
+{"type":"Feature","id":"way/102602237/14","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/14","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6920412,-43.4796062],[172.6947282,-43.4798952]]}}
 ,
-{"type":"Feature","id":"way/102602237/15","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/15","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6947282,-43.4798952],[172.6949081,-43.4799194]]}}
+{"type":"Feature","id":"way/102602237/15","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/15","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6947282,-43.4798952],[172.6949081,-43.4799194]]}}
 ,
-{"type":"Feature","id":"way/102602237/16","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/16","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6949081,-43.4799194],[172.6950688,-43.47995620000001]]}}
+{"type":"Feature","id":"way/102602237/16","properties":{"highway":"tertiary","maxspeed":"50","name":"Mairehau Road","id":"way/102602237/16","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6949081,-43.4799194],[172.6950688,-43.47995620000001]]}}
 ,
 {"type":"Feature","id":"way/102602241/0","properties":{"highway":"tertiary","junction":"roundabout","maxspeed":"50","id":"way/102602241/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.68114540000005,-43.482680499999994],[172.6811946,-43.4826884]]}}
 ,
@@ -2294,9 +2290,7 @@
 ,
 {"type":"Feature","id":"way/114770267/0","properties":{"ccc":"cyclingroute","highway":"tertiary","maxspeed":"50","name":"Gloucester Street","id":"way/114770267/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63968749999998,-43.5298831],[172.64059059999994,-43.5298808]]}}
 ,
-{"type":"Feature","id":"way/114770275/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6541777,-43.4962942],[172.6540969,-43.4962267]]}}
-,
-{"type":"Feature","id":"way/114770275/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6540969,-43.4962267],[172.65406149999998,-43.496212600000014]]}}
+{"type":"Feature","id":"way/114770275/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6540969,-43.4962267],[172.65406149999998,-43.496212600000014]]}}
 ,
 {"type":"Feature","id":"way/114770275/2","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65406149999998,-43.496212600000014],[172.65397289999999,-43.49617720000001]]}}
 ,
@@ -2307,6 +2301,28 @@
 {"type":"Feature","id":"way/114770275/5","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65365129999995,-43.4961866],[172.6533902,-43.4962073]]}}
 ,
 {"type":"Feature","id":"way/114770275/6","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/6","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6533902,-43.4962073],[172.65238850000006,-43.49621610000001]]}}
+,
+{"type":"Feature","id":"way/114770275/7","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/7","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65238850000006,-43.49621610000001],[172.6519832,-43.49618620000001]]}}
+,
+{"type":"Feature","id":"way/114770275/8","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/8","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6519832,-43.49618620000001],[172.6515421,-43.496114300000016]]}}
+,
+{"type":"Feature","id":"way/114770275/9","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/9","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6515421,-43.496114300000016],[172.65130870000004,-43.49601490000001]]}}
+,
+{"type":"Feature","id":"way/114770275/10","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/10","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65130870000004,-43.49601490000001],[172.65112990000006,-43.4958809]]}}
+,
+{"type":"Feature","id":"way/114770275/11","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/11","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65112990000006,-43.4958809],[172.6508492,-43.49552480000001]]}}
+,
+{"type":"Feature","id":"way/114770275/12","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/12","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6508492,-43.49552480000001],[172.6507277,-43.4954215]]}}
+,
+{"type":"Feature","id":"way/114770275/13","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/13","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6507277,-43.4954215],[172.65034930000007,-43.495173000000015]]}}
+,
+{"type":"Feature","id":"way/114770275/14","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/14","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65034930000007,-43.495173000000015],[172.64998549999993,-43.49495930000001]]}}
+,
+{"type":"Feature","id":"way/114770275/15","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/15","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.64998549999993,-43.49495930000001],[172.64970649999998,-43.49479280000001]]}}
+,
+{"type":"Feature","id":"way/114770275/16","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/16","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.64970649999998,-43.49479280000001],[172.6495857999999,-43.4946839]]}}
+,
+{"type":"Feature","id":"way/114770275/17","properties":{"highway":"tertiary","maxspeed":"50","name":"Briggs Road","id":"way/114770275/17","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6495857999999,-43.4946839],[172.64946289999995,-43.494584599999996]]}}
 ,
 {"type":"Feature","id":"way/114770276/0","properties":{"highway":"tertiary","name":"Aynsley Terrace","id":"way/114770276/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6673936,-43.555122200000014],[172.66749740000006,-43.5555432]]}}
 ,
@@ -2350,17 +2366,17 @@
 ,
 {"type":"Feature","id":"way/114770276/20","properties":{"highway":"tertiary","name":"Aynsley Terrace","id":"way/114770276/20","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.664224,-43.562326900000016],[172.664279,-43.5624824]]}}
 ,
-{"type":"Feature","id":"way/114770286/0","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6436642999999,-43.5579633],[172.6422849,-43.5579794]]}}
+{"type":"Feature","id":"way/114770286/0","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6436642999999,-43.5579633],[172.6422849,-43.5579794]]}}
 ,
-{"type":"Feature","id":"way/114770286/1","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6422849,-43.5579794],[172.64105499999994,-43.557981899999994]]}}
+{"type":"Feature","id":"way/114770286/1","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6422849,-43.5579794],[172.64105499999994,-43.557981899999994]]}}
 ,
-{"type":"Feature","id":"way/114770286/2","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.64105499999994,-43.557981899999994],[172.64065019999993,-43.5579767]]}}
+{"type":"Feature","id":"way/114770286/2","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.64105499999994,-43.557981899999994],[172.64065019999993,-43.5579767]]}}
 ,
-{"type":"Feature","id":"way/114770286/3","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.64065019999993,-43.5579767],[172.63967449999993,-43.5579733]]}}
+{"type":"Feature","id":"way/114770286/3","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.64065019999993,-43.5579767],[172.63967449999993,-43.5579733]]}}
 ,
-{"type":"Feature","id":"way/114770286/4","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63967449999993,-43.5579733],[172.6394415,-43.5579733]]}}
+{"type":"Feature","id":"way/114770286/4","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/4","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63967449999993,-43.5579733],[172.6394415,-43.5579733]]}}
 ,
-{"type":"Feature","id":"way/114770286/5","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6394415,-43.5579733],[172.63735559999998,-43.5579904]]}}
+{"type":"Feature","id":"way/114770286/5","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/5","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6394415,-43.5579733],[172.63735559999998,-43.5579904]]}}
 ,
 {"type":"Feature","id":"way/114770286/6","properties":{"ccc":"cyclingpath","cycleway":"lane","highway":"tertiary","maxspeed":"50","name":"Tennyson Street","id":"way/114770286/6","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63735559999998,-43.5579904],[172.637095,-43.5579904]]}}
 ,
@@ -2430,17 +2446,17 @@
 ,
 {"type":"Feature","id":"way/116421890/14","properties":{"highway":"tertiary","name":"Major Hornbrook Road","id":"way/116421890/14","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.71538299999995,-43.565333400000014],[172.71580199999994,-43.565918500000016]]}}
 ,
-{"type":"Feature","id":"way/116425047/0","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.67953469999992,-43.4751478],[172.6798313,-43.47500330000001]]}}
+{"type":"Feature","id":"way/116425047/0","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.67953469999992,-43.4751478],[172.6798313,-43.47500330000001]]}}
 ,
-{"type":"Feature","id":"way/116425047/1","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6798313,-43.47500330000001],[172.68011810000004,-43.474890499999994]]}}
+{"type":"Feature","id":"way/116425047/1","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6798313,-43.47500330000001],[172.68011810000004,-43.474890499999994]]}}
 ,
-{"type":"Feature","id":"way/116425047/2","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.68011810000004,-43.474890499999994],[172.6808307,-43.474659599999995]]}}
+{"type":"Feature","id":"way/116425047/2","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.68011810000004,-43.474890499999994],[172.6808307,-43.474659599999995]]}}
 ,
-{"type":"Feature","id":"way/116425047/3","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6808307,-43.474659599999995],[172.6836415,-43.4737488]]}}
+{"type":"Feature","id":"way/116425047/3","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6808307,-43.474659599999995],[172.6836415,-43.4737488]]}}
 ,
-{"type":"Feature","id":"way/116425047/4","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6836415,-43.4737488],[172.6839666,-43.4735234]]}}
+{"type":"Feature","id":"way/116425047/4","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/4","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6836415,-43.4737488],[172.6839666,-43.4735234]]}}
 ,
-{"type":"Feature","id":"way/116425047/5","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6839666,-43.4735234],[172.6842297,-43.4733208]]}}
+{"type":"Feature","id":"way/116425047/5","properties":{"highway":"tertiary","lanes":"2","name":"Landfill Avenue","surface":"paved","width":"6","id":"way/116425047/5","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6839666,-43.4735234],[172.6842297,-43.4733208]]}}
 ,
 {"type":"Feature","id":"way/116425048/0","properties":{"highway":"tertiary","name":"Marine Parade","id":"way/116425048/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7249362,-43.49052560000001],[172.725309,-43.4915681]]}}
 ,
@@ -2472,7 +2488,7 @@
 ,
 {"type":"Feature","id":"way/117751859/0","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Breezes Road","id":"way/117751859/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6941689,-43.511203699999996],[172.6960158,-43.5126704]]}}
 ,
-{"type":"Feature","id":"way/117751863/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Beach Road","id":"way/117751863/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7015899,-43.4865579],[172.70489449999994,-43.48651130000001]]}}
+{"type":"Feature","id":"way/117751863/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Beach Road","id":"way/117751863/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7015899,-43.4865579],[172.70489449999994,-43.48651130000001]]}}
 ,
 {"type":"Feature","id":"way/117751863/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Beach Road","id":"way/117751863/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.70489449999994,-43.48651130000001],[172.70596429999995,-43.4865044]]}}
 ,
@@ -2558,11 +2574,11 @@
 ,
 {"type":"Feature","id":"way/140192350/5","properties":{"highway":"tertiary","maxspeed":"50","name":"Breezes Road","id":"way/140192350/5","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.69311469999994,-43.51045439999999],[172.6941689,-43.511203699999996]]}}
 ,
-{"type":"Feature","id":"way/140192368/0","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Breezes Road","id":"way/140192368/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69844480000006,-43.5145627],[172.70137409999998,-43.5168973]]}}
+{"type":"Feature","id":"way/140192368/0","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Breezes Road","id":"way/140192368/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.69844480000006,-43.5145627],[172.70137409999998,-43.5168973]]}}
 ,
-{"type":"Feature","id":"way/140192368/1","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Breezes Road","id":"way/140192368/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.70137409999998,-43.5168973],[172.7017266,-43.5172119]]}}
+{"type":"Feature","id":"way/140192368/1","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Breezes Road","id":"way/140192368/1","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.70137409999998,-43.5168973],[172.7017266,-43.5172119]]}}
 ,
-{"type":"Feature","id":"way/140192368/2","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Breezes Road","id":"way/140192368/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7017266,-43.5172119],[172.70181269999998,-43.517288799999996]]}}
+{"type":"Feature","id":"way/140192368/2","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Breezes Road","id":"way/140192368/2","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.7017266,-43.5172119],[172.70181269999998,-43.517288799999996]]}}
 ,
 {"type":"Feature","id":"way/140192613/0","properties":{"highway":"tertiary","name":"Avonside Drive","id":"way/140192613/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6726875,-43.5217905],[172.67410429999995,-43.5216963]]}}
 ,
@@ -2574,7 +2590,7 @@
 ,
 {"type":"Feature","id":"way/145219426/1","properties":{"ccc":"cyclingroute","highway":"unclassified","lanes":"2","maxspeed":"50","name":"Ferry Road","id":"way/145219426/1","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6563016,-43.539793300000014],[172.6561246,-43.5396767]]}}
 ,
-{"type":"Feature","id":"way/147247812/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/147247812/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63294810000005,-43.53204570000001],[172.6333908,-43.5320473]]}}
+{"type":"Feature","id":"way/147247812/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/147247812/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63294810000005,-43.53204570000001],[172.6333908,-43.5320473]]}}
 ,
 {"type":"Feature","id":"way/159654455/0","properties":{"highway":"tertiary","name":"Sumner Road","id":"way/159654455/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.7279421,-43.606375200000016],[172.72761559999998,-43.6065346]]}}
 ,
@@ -2650,12 +2666,6 @@
 ,
 {"type":"Feature","id":"way/180749577/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Stanmore Road","id":"way/180749577/1","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.65641140000005,-43.522307300000016],[172.6567919,-43.52357340000001]]}}
 ,
-{"type":"Feature","id":"way/180749577/2","properties":{"highway":"tertiary","maxspeed":"50","name":"Stanmore Road","id":"way/180749577/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6567919,-43.52357340000001],[172.65705730000005,-43.524409]]}}
-,
-{"type":"Feature","id":"way/180749577/3","properties":{"highway":"tertiary","maxspeed":"50","name":"Stanmore Road","id":"way/180749577/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65705730000005,-43.524409],[172.6570751,-43.5244883]]}}
-,
-{"type":"Feature","id":"way/180749577/4","properties":{"highway":"tertiary","maxspeed":"50","name":"Stanmore Road","id":"way/180749577/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6570751,-43.5244883],[172.6570659,-43.52509350000001]]}}
-,
 {"type":"Feature","id":"way/181412700/0","properties":{"highway":"tertiary","junction":"roundabout","maxspeed":"50","id":"way/181412700/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.59485959999998,-43.5441213],[172.59487119999994,-43.5441349]]}}
 ,
 {"type":"Feature","id":"way/181412700/1","properties":{"highway":"tertiary","junction":"roundabout","maxspeed":"50","id":"way/181412700/1","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.59487119999994,-43.5441349],[172.5948783,-43.544163499999996]]}}
@@ -2706,9 +2716,9 @@
 ,
 {"type":"Feature","id":"way/183184045/0","properties":{"highway":"unclassified","maxspeed":"50","name":"Smarts Road","oneway":"yes","id":"way/183184045/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.5264517,-43.540832],[172.52680680000006,-43.5408243]]}}
 ,
-{"type":"Feature","id":"way/183366604/0","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Hills Road","id":"way/183366604/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65158169999998,-43.4994747],[172.65132810000006,-43.499432900000016]]}}
+{"type":"Feature","id":"way/183366604/0","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Hills Road","id":"way/183366604/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.65158169999998,-43.4994747],[172.65132810000006,-43.499432900000016]]}}
 ,
-{"type":"Feature","id":"way/183366604/1","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Hills Road","id":"way/183366604/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.65132810000006,-43.499432900000016],[172.6512602,-43.49940590000001]]}}
+{"type":"Feature","id":"way/183366604/1","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Hills Road","id":"way/183366604/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.65132810000006,-43.499432900000016],[172.6512602,-43.49940590000001]]}}
 ,
 {"type":"Feature","id":"way/183366604/2","properties":{"highway":"tertiary","lanes":"2","maxspeed":"50","name":"Hills Road","id":"way/183366604/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6512602,-43.49940590000001],[172.6511316,-43.49933590000002]]}}
 ,
@@ -2814,19 +2824,19 @@
 ,
 {"type":"Feature","id":"way/204080246/0","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7692375,-43.5743472],[172.76985989999994,-43.5738068]]}}
 ,
-{"type":"Feature","id":"way/204080246/1","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.76985989999994,-43.5738068],[172.7704427,-43.57310200000001]]}}
+{"type":"Feature","id":"way/204080246/1","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.76985989999994,-43.5738068],[172.7704427,-43.57310200000001]]}}
 ,
-{"type":"Feature","id":"way/204080246/2","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7704427,-43.57310200000001],[172.77071149999998,-43.5727604]]}}
+{"type":"Feature","id":"way/204080246/2","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7704427,-43.57310200000001],[172.77071149999998,-43.5727604]]}}
 ,
-{"type":"Feature","id":"way/204080246/3","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.77071149999998,-43.5727604],[172.7713708,-43.572074]]}}
+{"type":"Feature","id":"way/204080246/3","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.77071149999998,-43.5727604],[172.7713708,-43.572074]]}}
 ,
-{"type":"Feature","id":"way/204080246/4","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7713708,-43.572074],[172.77156049999994,-43.5718653]]}}
+{"type":"Feature","id":"way/204080246/4","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/4","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7713708,-43.572074],[172.77156049999994,-43.5718653]]}}
 ,
-{"type":"Feature","id":"way/204080246/5","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.77156049999994,-43.5718653],[172.7721487,-43.571137]]}}
+{"type":"Feature","id":"way/204080246/5","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/5","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.77156049999994,-43.5718653],[172.7721487,-43.571137]]}}
 ,
-{"type":"Feature","id":"way/204080246/6","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/6","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7721487,-43.571137],[172.7722677,-43.571097099999996]]}}
+{"type":"Feature","id":"way/204080246/6","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/6","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7721487,-43.571137],[172.7722677,-43.571097099999996]]}}
 ,
-{"type":"Feature","id":"way/204080246/7","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/7","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.7722677,-43.571097099999996],[172.7723675,-43.57113920000001]]}}
+{"type":"Feature","id":"way/204080246/7","properties":{"highway":"tertiary","lanes":"2","name":"Heberden Avenue","id":"way/204080246/7","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.7722677,-43.571097099999996],[172.7723675,-43.57113920000001]]}}
 ,
 {"type":"Feature","id":"way/205300128/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Cavendish Road","source:name":"openstreetbugs","id":"way/205300128/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6069409,-43.4741637],[172.6068899,-43.4747261]]}}
 ,
@@ -2916,16 +2926,6 @@
 ,
 {"type":"Feature","id":"way/231307195/0","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.66386359999993,-43.517587699999986],[172.66386359999993,-43.5169964]]}}
 ,
-{"type":"Feature","id":"way/231307195/1","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.66386359999993,-43.5169964],[172.66418119999994,-43.51639270000001]]}}
-,
-{"type":"Feature","id":"way/231307195/2","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.66418119999994,-43.51639270000001],[172.66522030000004,-43.5153696]]}}
-,
-{"type":"Feature","id":"way/231307195/3","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.66522030000004,-43.5153696],[172.66523690000005,-43.515353200000014]]}}
-,
-{"type":"Feature","id":"way/231307195/4","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.66523690000005,-43.515353200000014],[172.6653915,-43.51523510000001]]}}
-,
-{"type":"Feature","id":"way/231307195/5","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6653915,-43.51523510000001],[172.6657176,-43.51498599999999]]}}
-,
 {"type":"Feature","id":"way/231307195/6","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/6","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6657176,-43.51498599999999],[172.66643000000005,-43.5145191]]}}
 ,
 {"type":"Feature","id":"way/231307195/7","properties":{"highway":"tertiary","maxspeed":"50","name":"River Road","id":"way/231307195/7","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.66643000000005,-43.5145191],[172.66693640000005,-43.514363499999995]]}}
@@ -2996,13 +2996,13 @@
 ,
 {"type":"Feature","id":"way/235237219/1","properties":{"highway":"unclassified","maxspeed":"50","name":"Troup Drive","id":"way/235237219/1","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.60480579999995,-43.53956210000001],[172.60545159999998,-43.5394376]]}}
 ,
-{"type":"Feature","id":"way/235373640/0","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6366703,-43.53203850000001],[172.63600449999998,-43.53204560000001]]}}
+{"type":"Feature","id":"way/235373640/0","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6366703,-43.53203850000001],[172.63600449999998,-43.53204560000001]]}}
 ,
-{"type":"Feature","id":"way/235373640/1","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63600449999998,-43.53204560000001],[172.63559019999994,-43.53204560000001]]}}
+{"type":"Feature","id":"way/235373640/1","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63600449999998,-43.53204560000001],[172.63559019999994,-43.53204560000001]]}}
 ,
-{"type":"Feature","id":"way/235373640/2","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63559019999994,-43.53204560000001],[172.6353112,-43.53204560000001]]}}
+{"type":"Feature","id":"way/235373640/2","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63559019999994,-43.53204560000001],[172.6353112,-43.53204560000001]]}}
 ,
-{"type":"Feature","id":"way/235373640/3","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6353112,-43.53204560000001],[172.6346075,-43.53205230000002]]}}
+{"type":"Feature","id":"way/235373640/3","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235373640/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6353112,-43.53204560000001],[172.6346075,-43.53205230000002]]}}
 ,
 {"type":"Feature","id":"way/235392751/0","properties":{"highway":"unclassified","maxspeed":"50","name":"Jack Hinton Drive","id":"way/235392751/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.60473199999998,-43.5454099],[172.60611419999998,-43.544634099999996]]}}
 ,
@@ -3104,7 +3104,7 @@
 ,
 {"type":"Feature","id":"way/235759343/0","properties":{"access":"yes","fixme":"one way layout","foot":"yes","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","note":"tramway reopens 2014","railway":"disused","id":"way/235759343/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63385619999994,-43.5320465],[172.63386659999998,-43.53257400000001]]}}
 ,
-{"type":"Feature","id":"way/235759343/1","properties":{"access":"yes","fixme":"one way layout","foot":"yes","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","note":"tramway reopens 2014","railway":"disused","id":"way/235759343/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63386659999998,-43.53257400000001],[172.63385909999994,-43.53279470000001]]}}
+{"type":"Feature","id":"way/235759343/1","properties":{"access":"yes","fixme":"one way layout","foot":"yes","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","note":"tramway reopens 2014","railway":"disused","id":"way/235759343/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.63386659999998,-43.53257400000001],[172.63385909999994,-43.53279470000001]]}}
 ,
 {"type":"Feature","id":"way/235759343/2","properties":{"access":"yes","fixme":"one way layout","foot":"yes","highway":"tertiary","maxspeed":"30","name":"Oxford Terrace","note":"tramway reopens 2014","railway":"disused","id":"way/235759343/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.63385909999994,-43.53279470000001],[172.6336746999999,-43.5330234]]}}
 ,
@@ -3124,41 +3124,41 @@
 ,
 {"type":"Feature","id":"way/235764958/1","properties":{"access":"yes","bicycle":"yes","foot":"yes","highway":"tertiary","maxspeed":"50","name":"Hereford Street","id":"way/235764958/1","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.63967389999993,-43.5320419],[172.64067589999993,-43.5320344]]}}
 ,
-{"type":"Feature","id":"way/235767507/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/0","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.70010109999998,-43.4795116],[172.69907999999998,-43.4792082]]}}
+{"type":"Feature","id":"way/235767507/0","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/0","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.70010109999998,-43.4795116],[172.69907999999998,-43.4792082]]}}
 ,
-{"type":"Feature","id":"way/235767507/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/1","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69907999999998,-43.4792082],[172.6979738,-43.4788823]]}}
+{"type":"Feature","id":"way/235767507/1","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/1","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69907999999998,-43.4792082],[172.6979738,-43.4788823]]}}
 ,
-{"type":"Feature","id":"way/235767507/2","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/2","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6979738,-43.4788823],[172.6977896,-43.4788305]]}}
+{"type":"Feature","id":"way/235767507/2","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/2","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6979738,-43.4788823],[172.6977896,-43.4788305]]}}
 ,
-{"type":"Feature","id":"way/235767507/3","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/3","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6977896,-43.4788305],[172.6964955,-43.47835960000001]]}}
+{"type":"Feature","id":"way/235767507/3","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/3","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6977896,-43.4788305],[172.6964955,-43.47835960000001]]}}
 ,
-{"type":"Feature","id":"way/235767507/4","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/4","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6964955,-43.47835960000001],[172.69621569999998,-43.47821990000001]]}}
+{"type":"Feature","id":"way/235767507/4","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/4","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6964955,-43.47835960000001],[172.69621569999998,-43.47821990000001]]}}
 ,
-{"type":"Feature","id":"way/235767507/5","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/5","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69621569999998,-43.47821990000001],[172.6959077,-43.4780342]]}}
+{"type":"Feature","id":"way/235767507/5","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/5","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69621569999998,-43.47821990000001],[172.6959077,-43.4780342]]}}
 ,
-{"type":"Feature","id":"way/235767507/6","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/6","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6959077,-43.4780342],[172.6956343,-43.4777941]]}}
+{"type":"Feature","id":"way/235767507/6","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/6","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6959077,-43.4780342],[172.6956343,-43.4777941]]}}
 ,
-{"type":"Feature","id":"way/235767507/7","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/7","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6956343,-43.4777941],[172.69537780000005,-43.4774482]]}}
+{"type":"Feature","id":"way/235767507/7","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/7","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6956343,-43.4777941],[172.69537780000005,-43.4774482]]}}
 ,
-{"type":"Feature","id":"way/235767507/8","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/8","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69537780000005,-43.4774482],[172.69525259999998,-43.4771942]]}}
+{"type":"Feature","id":"way/235767507/8","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/8","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69537780000005,-43.4774482],[172.69525259999998,-43.4771942]]}}
 ,
-{"type":"Feature","id":"way/235767507/9","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/9","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69525259999998,-43.4771942],[172.69520509999998,-43.4770032]]}}
+{"type":"Feature","id":"way/235767507/9","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/9","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69525259999998,-43.4771942],[172.69520509999998,-43.4770032]]}}
 ,
-{"type":"Feature","id":"way/235767507/10","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/10","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69520509999998,-43.4770032],[172.6951309,-43.47665890000001]]}}
+{"type":"Feature","id":"way/235767507/10","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/10","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69520509999998,-43.4770032],[172.6951309,-43.47665890000001]]}}
 ,
-{"type":"Feature","id":"way/235767507/11","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/11","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6951309,-43.47665890000001],[172.6949015,-43.475446]]}}
+{"type":"Feature","id":"way/235767507/11","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/11","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6951309,-43.47665890000001],[172.6949015,-43.475446]]}}
 ,
-{"type":"Feature","id":"way/235767507/12","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/12","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.6949015,-43.475446],[172.69479499999994,-43.474893]]}}
+{"type":"Feature","id":"way/235767507/12","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/12","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.6949015,-43.475446],[172.69479499999994,-43.474893]]}}
 ,
-{"type":"Feature","id":"way/235767507/13","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/13","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69479499999994,-43.474893],[172.69477249999994,-43.4745884]]}}
+{"type":"Feature","id":"way/235767507/13","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/13","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69479499999994,-43.474893],[172.69477249999994,-43.4745884]]}}
 ,
-{"type":"Feature","id":"way/235767507/14","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/14","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69477249999994,-43.4745884],[172.69487469999993,-43.4743418]]}}
+{"type":"Feature","id":"way/235767507/14","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/14","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69477249999994,-43.4745884],[172.69487469999993,-43.4743418]]}}
 ,
-{"type":"Feature","id":"way/235767507/15","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/15","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69487469999993,-43.4743418],[172.69606219999994,-43.4726341]]}}
+{"type":"Feature","id":"way/235767507/15","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/15","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69487469999993,-43.4743418],[172.69606219999994,-43.4726341]]}}
 ,
-{"type":"Feature","id":"way/235767507/16","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/16","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69606219999994,-43.4726341],[172.69606969999998,-43.4726232]]}}
+{"type":"Feature","id":"way/235767507/16","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/16","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69606219999994,-43.4726341],[172.69606969999998,-43.4726232]]}}
 ,
-{"type":"Feature","id":"way/235767507/17","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/17","weighting":10},"geometry":{"type":"LineString","coordinates":[[172.69606969999998,-43.4726232],[172.6967934,-43.4715762]]}}
+{"type":"Feature","id":"way/235767507/17","properties":{"highway":"tertiary","maxspeed":"50","name":"Queenspark Drive","id":"way/235767507/17","weighting":4},"geometry":{"type":"LineString","coordinates":[[172.69606969999998,-43.4726232],[172.6967934,-43.4715762]]}}
 ,
 {"type":"Feature","id":"way/235768785/0","properties":{"highway":"tertiary","name":"McBratneys Road","id":"way/235768785/0","weighting":7},"geometry":{"type":"LineString","coordinates":[[172.6740552999999,-43.51364039999999],[172.67416909999994,-43.513623499999994]]}}
 ,
